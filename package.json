@@ -1,0 +1,28 @@
+{
+  "name": "umbrella",
+  "version": "1.0.0",
+  "description": "umbrella of localStorage & sessionStorage",
+  "main": "./lib/index.cjs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezihaohao/umbrella.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "yezihaohao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yezihaohao/umbrella/issues"
+  },
+  "homepage": "https://github.com/yezihaohao/umbrella#readme",
+  "devDependencies": {
+    "rollup": "^1.27.14",
+    "rollup-plugin-eslint": "^7.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.25.3"
+  }
+}
